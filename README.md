@@ -1,2 +1,3 @@
 # dark-cage
-jeu de connsole linux realiser avec SDL et le langage C
+jeu de connsole linux realiser avec SDL et le langage C.
+realisation des chartes graphiques avec Illustrator ,Photoshop...
